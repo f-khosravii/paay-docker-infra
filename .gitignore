@@ -13,3 +13,5 @@
 
 # init scripts (optional - remove if you want to commit them)
 **/init/*.sql
+
+.idea
