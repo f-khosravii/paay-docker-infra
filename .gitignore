@@ -1,0 +1,15 @@
+# env files
+.env
+**/.env
+
+# volumes/data
+**/data
+
+# mac/linux junk
+.DS_Store
+
+# logs
+*.log
+
+# init scripts (optional - remove if you want to commit them)
+**/init/*.sql
